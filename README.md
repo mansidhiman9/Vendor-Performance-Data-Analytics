@@ -187,15 +187,3 @@ This project demonstrates how to combine **data engineering, analytics, and busi
 - Integrate Power BI service for real-time dashboard updates  
 
 ---
-
-## 🧑‍💻 Author
-
-**👤 Harsh Belekar**  
-📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
-📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗 [GitHub](https://github.com/Harsh-Belekar)
-
-📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
-
----
-
-⭐ *If you liked this project, don’t forget to star the repo and connect with me on LinkedIn!*
